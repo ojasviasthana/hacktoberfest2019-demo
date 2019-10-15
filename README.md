@@ -1,0 +1,8 @@
+# Hacktoberfest2019
+## Demo on How to host in cloud 
+**Step of host in cloud (heroku)**
+- Have a [git](https://git-scm.com/downloads) 
+- Have a [heroku](https://id.heroku.com/login) account if not then click [Here](https://signup.heroku.com/login)
+- [heroku cli](https://devcenter.heroku.com/articles/heroku-cli) install in your system or repository host in [github](https://github.com)    
+- After Complate all above step if you host using cli then type  ```heroku login``` in your **cmd** or **Terminal**. if you choice host using git then open browser and type [heroku.com](https://www.heroku.com/) and login in heroku. 
+-
