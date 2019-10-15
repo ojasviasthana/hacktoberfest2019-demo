@@ -6,4 +6,4 @@
 - [heroku cli](https://devcenter.heroku.com/articles/heroku-cli) install in your system or repository host in [github](https://github.com)    
 - After Complate all above step if you host using cli then type  ```heroku login``` in your **cmd** or **Terminal**. if you choice host using git then open browser and type [heroku.com](https://www.heroku.com/) and login in heroku. 
 - After Successfuly login redirect to dashboard of heroku 
-- Then click on **new** and you show you page which is have two input box. enter **app-name** and **choose region**.  
+- Then click on **new** and you show you page which is have two input box. enter **app-name** and **choose region** .
