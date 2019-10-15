@@ -1,0 +1,21 @@
+body {
+    background-color: #152347;
+    color:#fff;
+    font-family: Space Mono,monospace; 
+   }
+   .header{
+     margin-top:5% ;
+   text-align: center;
+   
+   }
+   a{
+     color: #faf921;
+     text-decoration-line: none;
+     
+   }
+   .content{
+     font-size: 20px;
+     margin-left: 5%;
+     margin-top:5%;
+         line-height: 60px
+   }
